@@ -1,0 +1,1 @@
+Using the ResNet Architecture to estimate surface normals of an image
